@@ -1,4 +1,3 @@
-package com.company.day6.logicalProgramming;
 /**
  * Reverse a number
  * In Java, we can reverse a number either by using for loop, while loop, or using recursion.
@@ -9,11 +8,10 @@ package com.company.day6.logicalProgramming;
  * it.
  * c. We then divide the number by 10 and repeat steps until the number becomes 0.
  *
- * @author Krunal Lad
+ * @author Pavan Saketh
  * @version 1.0
- * @since 13-06-2021
+ * @Since 13-06-2021
  */
-
 import java.util.Scanner;
 
 public class ReverseNumber {
