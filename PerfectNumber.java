@@ -1,4 +1,3 @@
-package com.company.day6.logicalProgramming;
 /**
  * Perfect Number
  * a. Just like the Armstrong number, the Perfect Number is also a special type of
@@ -9,7 +8,7 @@ package com.company.day6.logicalProgramming;
  * b. 28 = 1+2+4+7
  * c. 28 = 28
  *
- * @author Krunal Lad
+ * @author Pavan Saketh
  * @version 1.0
  * @Since 13-06-2021
  */
