@@ -1,4 +1,3 @@
-package com.company.day6.logicalProgramming;
 /**
  * Simulate Stopwatch Program
  * a. Desc -> Write a Stopwatch Program for measuring the time that elapses between
@@ -7,7 +6,7 @@ package com.company.day6.logicalProgramming;
  * c. Logic -> Measure the elapsed time between start and end
  * d. O/P -> Print the elapsed time.
  *
- * @author Krunal Lad
+ * @author Pavan Saketh
  * @version 1.0
  * @Since 13-06-2021
  */
