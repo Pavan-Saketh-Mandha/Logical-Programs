@@ -1,4 +1,3 @@
-package com.company.day6.logicalProgramming;
 /**
  * Coupon Numbers
  * a. Desc -> Given N distinct Coupon Numbers, how many random numbers do you
@@ -10,9 +9,9 @@ package com.company.day6.logicalProgramming;
  * e. Functions => Write Class Static Functions to generate random numbers and to
  * process distinct coupons.
  *
- * @author Krunal Lad
+ * @author Pavan Saketh
  * @version 1.0
- * @Since 13-06-2021
+ * @Since 14-06-2021
  */
 
 import java.util.ArrayList;
