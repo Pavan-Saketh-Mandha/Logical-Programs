@@ -1,11 +1,10 @@
-package com.company.day6.logicalProgramming;
 /**
  * 1. Fibonacci Series
  * Fibonacci series is a special type of series in which the next term is the sum of the
  * previous two terms. For example, if 0 and 1 are the two previous terms in a series, then
  * the next term will be 1(0+1).
  *
- * @author Krunal Lad
+ * @author Pavan Saketh
  * @version 1.0
  * @Since 13-06-2021
  */
