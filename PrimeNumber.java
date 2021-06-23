@@ -1,4 +1,3 @@
-package com.company.day6.logicalProgramming;
 /**
  * Prime Number
  * Just like the Perfect number, the Prime number is also a special type of number. When
@@ -6,7 +5,7 @@ package com.company.day6.logicalProgramming;
  * number. 0 and 1 are not counted as prime numbers. All the even numbers can be
  * divided by 2, so 2 is the only even prime minister.
  *
- * @author Krunal Lad
+ * @author Pavan Saketh
  * @version 1.0
  * @Since 13-06-2021
  */
